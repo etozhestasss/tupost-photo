@@ -1,0 +1,15 @@
+{
+  "name": {
+    "value": "Шкала тупости по фото"
+  },
+  "description": {
+    "value": "Узнай уровень своей тупости по фотографии! Юмор, мемы и немного магии AI."
+  },
+  "developer": {
+    "name": "etozhestasss"
+  },
+  "icons": {
+    "avatar": "https://etozhestasss.github.io/tupost-photo/icon_200.png"
+  },
+  "start_page": "index.html"
+}
